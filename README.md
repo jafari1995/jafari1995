@@ -1,15 +1,14 @@
 ### Hey, I'm Hamed
 
-Frontend developer in Tehran. I ship product UIs with **React / Next.js** and **Vue / Nuxt**, mostly in **TypeScript**.
-
-Lately I've been deep in white-label booking systems, design-system style components, and the occasional open-source fix when something in the ecosystem bites me.
+Senior frontend engineer in Tehran. I build product UIs with **React / Next.js** and **Vue / Nuxt**, mostly in **TypeScript** — white-label systems, real-time UIs, and maintainable component architecture.
 
 #### What I use
-`TypeScript` · `React` · `Next.js` · `Vue` · `Nuxt` · `Tailwind` · `MUI` · `Radix` · `Zustand`
+`TypeScript` · `React` · `Next.js` · `Vue` · `Nuxt` · `Tailwind` · `Radix` · `shadcn/ui` · `MUI` · `Zustand` · `React Query`
 
 #### Lately
-- **Zumra & Diginext** — white-label booking (flights / hotels / tours); Diginext site + AI assistant through 2025
-- Before that: led frontend at **Dino**, then **DuelHouse** and **Basalam**
+- **Diginext** *(Mar 2025 – 2025)* — landing-page generator, AI shopping assistant, DigiNext accelerator dashboards ([diginext.ir](https://diginext.ir) / [assistant.diginext.ir](https://assistant.diginext.ir))
+- **Zumra Agency** *(Jan 2024 – May 2025)* — white-label travel booking (flights / hotels / tours), Next.js + MUI
+- Before that: **Dino**, **DuelHouse**, **Basalam**
 
 #### On GitHub
 - [landing-generator-frontend](https://github.com/jafari1995/landing-generator-frontend)
