@@ -13,7 +13,7 @@ Senior frontend engineer in Tehran. I build product UIs with **React / Next.js**
 #### On GitHub
 - [landing-generator-frontend](https://github.com/jafari1995/landing-generator-frontend)
 - [pwa-snake-game](https://github.com/jafari1995/pwa-snake-game)
-- OSS: [day-picker #3017](https://github.com/gpbl/react-day-picker/pull/3017) · [Radix #4140](https://github.com/radix-ui/primitives/pull/4140)
+- OSS: [sonner #787](https://github.com/emilkowalski/sonner/pull/787) · [Radix #4140](https://github.com/radix-ui/primitives/pull/4140)
 
 #### Find me
 [Email](mailto:jafary91.itsu@gmail.com) · [LinkedIn](https://www.linkedin.com/in/hamed-jafari-994b6a128) · Tehran
